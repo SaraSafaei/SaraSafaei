@@ -29,8 +29,8 @@ Currently, I am transitioning into a **Software Developer role** with a keen int
 
 ## 🎓 Education  
 **B.Sc. in Computer Engineering**  
-Semnan University, Iran | GPA: 17.14/20  
-- Qualified for **Free Graduate Studies** without an entrance exam.  
+Semnan University, Iran  
+ 
 
 ---
 
@@ -69,8 +69,8 @@ Developed a predictive model for malaria using machine learning algorithms.
 ## 🌐 Let's Connect  
 📞 **Phone:** +98 910 908 0261  
 📧 **Email:** 2000sarasafaei@gmail.com  
-💼 [LinkedIn Profile](#) (Update with your LinkedIn link)  
-📂 [Portfolio](#) (Update with your portfolio link)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/sara-safaei) 
+  
 
 ---
 
