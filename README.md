@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-I am a **dedicated Embedded Software Tester** with over 1.5 years of experience working as a freelancer for an Italian company. My expertise lies in designing and executing test cases, identifying bugs, and ensuring top-notch software quality.  
+I am a **dedicated Embedded Software Tester** with over 1.5 years of experience working. My expertise lies in designing and executing test cases, identifying bugs, and ensuring top-notch software quality.  
 
 Currently, I am transitioning into a **Software Developer role** with a keen interest in **Python** and **C#**, aiming to leverage my analytical mindset and testing experience to craft innovative solutions. I love learning, experimenting, and building projects that make a difference.
 
