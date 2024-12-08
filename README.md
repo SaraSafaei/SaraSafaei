@@ -35,10 +35,10 @@ Semnan University, Iran
 ---
 
 ## 💻 Certifications  
-- **Python (Beginner to Advanced):** Maktabkhoneh  
-- **C# (Beginner):** TopLearn  
-- **Machine Learning (Beginner to Advanced):** Faradars & Udemy  
-- **SQL (Beginner):** TopLearn  
+- **Python :** Maktabkhoneh  
+- **C# :** TopLearn  
+- **Machine Learning :** Faradars & Udemy  
+- **SQL :** TopLearn  
 
 ---
 
